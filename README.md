@@ -12,7 +12,7 @@
 - Sitio web: [GRIP Clothing Store](https://www.gripclothingstore.com)
 - Instagram: [@gripclothinges](https://www.instagram.com/gripclothinges/)
 
-## Características
+## Características 
 
 - Diseño responisve
 - CSS con TailWind
